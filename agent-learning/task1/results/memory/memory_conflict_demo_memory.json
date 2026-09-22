@@ -1,0 +1,17 @@
+{
+  "user_id": "memory_conflict_demo",
+  "type": "notes",
+  "updated_at": "2026-09-21T00:07:27.563674",
+  "notes": [
+    {
+      "note_id": "11d6b5f5-9e30-49f2-a928-5cf28687f1e5",
+      "content": "用户主要使用 Linux，已不再将 Windows 作为主要系统。",
+      "session_id": "session-1aa2b59f",
+      "created_at": "2026-09-21T00:07:25.655732",
+      "updated_at": "2026-09-21T00:07:27.563174",
+      "tags": [
+        "operating_system"
+      ]
+    }
+  ]
+}
